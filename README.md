@@ -1,2 +1,5 @@
-# SYN_automakefile_2019
-automakefile project for the synthesis pool | add a fake src foler to make it work
+# Automakefile
+
+Add a fake src folder and you're good to go
+
+forked from @paradiseDG
